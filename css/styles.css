@@ -1,0 +1,39 @@
+@import 'https://fonts.googleapis.com/css?family=Josefin+Slab';
+
+.center-block {
+  margin: 0 auto;
+}
+
+#logo {
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+#navbar {
+  font-family: 'Josefin Slab', serif;
+  font-size: 120%;
+}
+
+.jumbotron
+{
+    background: url('https://maps.googleapis.com/maps/api/js?key=AIzaSyDxrEZR5dxxDyBq7MAuE5_XJ1cn8Fn93XY&callback=initMap') no-repeat center center;
+    background-size: cover;
+     min-height: 600px;
+}
+
+.jumbo-text {
+  margin-top: 200px;
+  color: #eeeeee;
+  text-shadow: 2px 2px 5px #fe75b4;
+}
+
+footer {
+  background-color: white;
+  text-align: center;
+  padding: 5px;
+  color: black;
+}
+
+.no-padding {
+  padding: 0;
+}
