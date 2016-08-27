@@ -1,5 +1,7 @@
 let $name = $(`#first-name`).val + " " + $(`#last-name`).val
 
+
+
 // $(function() {
 //
 //   // set cursor to input area
